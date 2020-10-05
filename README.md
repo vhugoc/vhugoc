@@ -1,16 +1,16 @@
-<h1 align="center">Olá, meu nome é Victor Hugo</h1>
-<h3 align="center">Desenvolvedor backend jr.</h3>
+<h1 align="center">VICTOR HUGO</h1>
+<h3 align="center">Desenvolvedor Backend JR.</h3>
 
 - 🔭 Faço parte do time da [Agência Mango](https://www.agenciamango.com.br/) em Londrina - PR
 
 - 🌱 Atualmente estou desenvolvendo em **Node.js** e me aperfeiçoando em **React.js**
 
-- 💬 Podemos conversar sobre qualquer tipo de assunto dentro do desenvolvimento web, como **frontend, backend, API's, frameworks, etc**
+- 💬 Podemos conversar sobre qualquer tipo de assunto dentro do desenvolvimento web, como **backend, frontend, API's, frameworks, etc**
 
-- 📫 Você pode enviar um e-mail para **vhuugoc@gmail.com**
+- 📫 Se quiser entrar em contato, você pode enviar um e-mail para **vhuugoc@gmail.com**
 
 <p align="left">
-<h3 align="left">Conecte-se:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <a href="https://linkedin.com/in/vhugoc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vhugoc" height="30" width="40" /></a>
 </p>
 
