@@ -1,5 +1,5 @@
 <h1 align="center">VICTOR HUGO</h1>
-<h3 align="center">Desenvolvedor Backend JR.</h3>
+<h3 align="center">Desenvolvedor Backend Jr.</h3>
 
 - 🔭 Faço parte do time da [Agência Mango](https://www.agenciamango.com.br/) em Londrina - PR
 
