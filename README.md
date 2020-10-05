@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Victor Hugo</h1>
 <h3 align="center">Desenvolvedor backend jr.</h3>
 
-- 🔭 Atualmente faço parte do time da [Agência Mango](https://www.agenciamango.com.br/)
+- 🔭 Faço parte do time da [Agência Mango](https://www.agenciamango.com.br/) em Londrina - PR
 
 - 🌱 Atualmente estou desenvolvendo em **Node.js** e me aperfeiçoando em **React.js**
 
