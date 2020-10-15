@@ -1,7 +1,7 @@
 <h1 align="center">VICTOR HUGO</h1>
 <h3 align="center">Desenvolvedor Backend</h3>
 
-- 🔭 Faço parte do time da [Agência Mango](https://www.agenciamango.com.br/) em Londrina - PR
+- 🔭 Faço parte do time da [Agência Mango](https://www.agenciamango.com.br/) em Londrina/PR
 
 - 🌱 Atualmente estou desenvolvendo em **Node.js** e me aperfeiçoando em **React.js**
 
