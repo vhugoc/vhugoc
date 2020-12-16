@@ -1,9 +1,9 @@
 <h1 align="center">VICTOR HUGO</h1>
 <h3 align="center">Desenvolvedor Backend</h3>
 
-- 🔭 Faço parte do time da [Agência Mango](https://www.agenciamango.com.br/) em Londrina/PR
+- 🔭 Faço parte do time da [Netdeal](https://www.netdeal.com.br/).
 
-- 🌱 Atualmente estou desenvolvendo em **Node.js** e me aperfeiçoando em **React.js**
+- 🌱 Atualmente, trabalho com **Node.js**, **ReactJS** e **AngularJS**
 
 - 💬 Podemos conversar sobre qualquer tipo de assunto dentro do desenvolvimento web, como **backend, frontend, API's, frameworks, etc**. Também possuo interesse na área de data science, utilizando o **Python e suas bibliotecas**
 
