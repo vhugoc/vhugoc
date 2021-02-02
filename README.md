@@ -3,7 +3,7 @@
 
 - 🔭 Faço parte do time da [Netdeal](https://www.netdeal.com.br/).
 
-- 🌱 Atualmente, trabalho com **Node.js**, **ReactJS** e **AngularJS**
+- 🌱 Atualmente, trabalho com **Node.js** e **ReactJS**
 
 - 💬 Podemos conversar sobre qualquer tipo de assunto dentro do desenvolvimento web, como **backend, frontend, API's, frameworks, etc**. Também possuo interesse na área de data science, utilizando o **Python e suas bibliotecas**
 
