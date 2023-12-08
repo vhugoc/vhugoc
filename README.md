@@ -1,11 +1,9 @@
-<h1 align="center">VICTOR HUGO</h1>
+<h1 align="center">VICTOR CORRÊA</h1>
 <h3 align="center">Desenvolvedor Backend</h3>
 
 - 🔭 Faço parte do time da [Netdeal](https://www.netdeal.com.br/).
 
-- 🌱 Atualmente, trabalho com **Node.js**, **Java** e **ReactJS**
-
-- 💬 Podemos conversar sobre qualquer tipo de assunto dentro do desenvolvimento web, como **backend, frontend, API's, frameworks, etc**. Também possuo interesse na área de data science, utilizando o **Python e suas bibliotecas**
+- 🌱 Atualmente, atuo como Fullstack Engineer utilizando Angular e Java (ecossistema Spring).
 
 - 📫 Para entrar em contato comigo, você pode enviar um e-mail para **vhuugoc@gmail.com**
 
